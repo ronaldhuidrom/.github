@@ -1,4 +1,4 @@
-This is owned and maintained solely by [huidr](github.com/huidr).
+This is owned and maintained solely by [huidr](https://github.com/huidr).
 
 ### Projects
 
