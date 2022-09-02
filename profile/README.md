@@ -3,9 +3,9 @@ This is owned and maintained solely by [huidr](github.com/huidr).
 ### Projects
 
 - Solution Manuals
-  - [Solutions to Nathanson's Elementary Methods in Number Theory](github.com/huidr/nathanson) 
+  - [Solutions to Nathanson's Elementary Methods in Number Theory](https://github.com/huidr/nathanson) 
 - Collections
-  - [bash](github.com/huidr/bash) is a collection of bash commands for everyday tasks.
+  - [bash](https://github.com/huidr/bash) is a collection of bash commands for everyday tasks.
 
 
 <!--
