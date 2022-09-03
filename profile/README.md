@@ -6,7 +6,8 @@ This is owned and maintained solely by [huidr](https://github.com/huidr).
   - [Solutions to Nathanson's Elementary Methods in Number Theory](https://github.com/huidr/nathanson) 
 - Collections
   - [bash](https://github.com/huidr/bash) is a collection of bash commands for everyday tasks.
-
+- Web apps
+  - [mskey](https://github.com/ronaldhuidrom/mskey) is a virtual Meetei script keyboard primarily for desktop computers.
 
 <!--
 
